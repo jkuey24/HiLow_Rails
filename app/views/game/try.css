@@ -1,0 +1,33 @@
+
+h1 {
+  font-size: 50pt;
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  color: rgb(22, 224, 194)
+}
+
+h1:hover {
+  color: rgb(181, 255, 213);
+}
+
+body {
+  background-image: url(http://cdn.hasinstinct.com/2015/07/23/cute-dog-backgrounds-wallpaper-cave.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+
+}
+
+footer {
+
+}
+
+#chow {
+  float: left;
+
+}
+
+#pom {
+  float:right;
+
+}
